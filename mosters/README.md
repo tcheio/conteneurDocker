@@ -1,0 +1,1 @@
+ POSTER_DIR=../posters node server.js
